@@ -16,7 +16,7 @@
 
 ## 2. Basic Machine Learning Natural Language Processing (Day 1 - Day 5) [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
 1. Why NLP?
-2. One hot Encoding, Bag Of Words,
+2. One hot Encoding, Bag Of Words,....
 3. TFIDF
 4. Word2vec,AvgWord2vec
 
